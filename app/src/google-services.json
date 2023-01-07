@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075002785360",
+    "project_id": "toko-ke2",
+    "storage_bucket": "toko-ke2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075002785360:android:e5bfab5f7fc9bf08d59b55",
+        "android_client_info": {
+          "package_name": "com.fp.toko2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075002785360-lkmm7piub0f22liqpmoji44h1erotjv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBlYKYxBifshCKK3h6KvOCE_szHmjIU_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075002785360-lkmm7piub0f22liqpmoji44h1erotjv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
